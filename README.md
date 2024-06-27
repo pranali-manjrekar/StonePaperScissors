@@ -1,0 +1,2 @@
+# StonePaperScissors
+Javascript project
